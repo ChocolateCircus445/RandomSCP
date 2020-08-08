@@ -31,6 +31,8 @@ When that finishes installing, type `chmod +x ` (note the space at the end.) **D
 
 Drag run.sh into the Terminal and then press return.
 
+When that finishes, type `sh ` (note the space), drag in run.sh, and press return.
+
 Now go to http://localhost:5168 (or whatever port number you chose). If everything was set up correctly (and if I explained it correctly), you should be redirected to a random SCP.
 
 <hr></hr>
